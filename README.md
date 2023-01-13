@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1JTUJpxbitQOEFabSITmN9bmJOWVqt9Np/view?usp=share_link)
+![MasterHead](banner_image.jpg)
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">Python developer, Machine learning and Full-Stack developer</h3>
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/3-Iar8L0x5wAAAAS/minddd.gif">
