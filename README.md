@@ -1,15 +1,14 @@
 ![MasterHead](banner_image.jpg)
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">Python developer, Machine learning and Full-Stack developer</h3>
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/3-Iar8L0x5wAAAAS/minddd.gif">
 
-- 🌱 I’m currently learning **Reinforcement learning and JavaScript frameworks**
+             - 🌱 I’m currently learning **Reinforcement learning and JavaScript frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pranavvp16](https://github.com/pranavvp16)
+             - 👨‍💻 All of my projects are available at [https://github.com/pranavvp16](https://github.com/pranavvp16)
 
-- 💬 Ask me about **Anything related to Tech**
+             - 💬 Ask me about **Anything related to Tech**
 
-- 📫 How to reach me **pranavprajapati586@gmail.com**
+             - 📫 How to reach me **pranavprajapati586@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
