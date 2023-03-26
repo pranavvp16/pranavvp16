@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">Python developer, Machine learning and Full-Stack developer</h3>
 
-             - 🌱 I’m currently learning **Reinforcement learning and JavaScript frameworks**
+             - 🌱 I’m currently learning Machine Learning libraries like Tensorflow and Pytorch
 
              - 👨‍💻 All of my projects are available at [https://github.com/pranavvp16](https://github.com/pranavvp16)
 
-             - 💬 Ask me about **Anything related to Tech**
+             - 💬 Ask me about Fine Tuning your Machine Learning model
 
-             - 📫 How to reach me **pranavprajapati586@gmail.com**
+             - 📫 How to reach me pranavprajapati586@gmail.com
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
