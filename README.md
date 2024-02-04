@@ -1,12 +1,18 @@
 ![MasterHead](banner_image2.jpg)
-<h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">Python developer, Machine learning and Full-Stack developer</h3>
+<h1 align="center">Hello 👋, I am Pranav</h1>
+<h3 align="center">Python developer and  Machine learning engineer</h3>
+<p> Hello I'm Pranav Prajapati, Co-Organizer TFUG-Nashik community,and contributor at various Machine Learning, Deep Learning and Generative AI libraries/Projects like Keras, Mindsdb, Pytorch, Sktime and many more. I'm a Machine Learning engineer and Python developer. I'm always open to contribute to Open Source projects in meaningful ways and come up with innovative ideas.</p>
 
-             - 🌱 Currently learning about transformers and LLM frameworks like langchain.
+<h3>Currently learning about<h3>
+  
+             - 🌱 MLops practices and frameworks
 
-             - 👨‍💻 Vector Embeddings and Vector Databases are cool. 
+             - 👨‍💻 Buidling Deep Learing solutions for edge devices
 
              - 💬 Ask me about Fine Tuning your Machine Learning model
+
+             - 🦙 Open Source LLM's and all the buzz around them!!
+
 
 
 <h3 align="center">Connect with me:</h3>
