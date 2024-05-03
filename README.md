@@ -1,7 +1,7 @@
 ![MasterHead](banner_image2.jpg)
 <h1 align="center">Hello 👋, I am Pranav</h1>
 <h3 align="center">Python developer and  Machine learning engineer</h3>
-<p> Hello I'm Pranav Prajapati, Co-Organizer TFUG-Nashik community,and contributor at various Machine Learning, Deep Learning and Generative AI libraries/Projects like Keras, Mindsdb, Pytorch, Sktime and many more. I'm a Machine Learning engineer and Python developer. I'm always open to contribute to Open Source projects in meaningful ways and come up with innovative ideas.</p>
+<p> Hello I'm Pranav Prajapati, Organizer TFUG-Nashik community,and contributor at various Machine Learning, Deep Learning and Generative AI libraries/Projects like Keras, Mindsdb, Pytorch, Sktime and many more. I'm a Machine Learning engineer and Python developer. I'm always open to contribute to Open Source projects in meaningful ways and come up with innovative ideas.</p>
 
 <h3>Currently learning about<h3>
   
@@ -11,7 +11,7 @@
 
              - 💬 Ask me about Fine Tuning your Machine Learning model
 
-             - 🦙 Open Source LLM's and all the buzz around them!!
+             - 🦀 Learning rust and rust powered DataFrames(Polars)
 
 
 
