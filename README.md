@@ -1,4 +1,3 @@
-![MasterHead](banner_image2.jpg)
 <h1 align="center">Hello 👋, I am Pranav</h1>
 <h3 align="center">Python developer and  Machine learning engineer</h3>
 <p> Hello I'm Pranav Prajapati, Organizer Machine Learning Nashik community,and contributor at various Machine Learning, Deep Learning and Generative AI libraries/Projects like Keras, Mindsdb, Pytorch, Sktime and many more. I'm a Machine Learning engineer and Python developer. I'm always open to contribute to Open Source projects in meaningful ways and come up with innovative ideas.</p>
