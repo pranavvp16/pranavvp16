@@ -6,12 +6,6 @@ Currently shipping agent infrastructure at [Truxt](https://github.com/pranavvp16
 
 ---
 
-### What I'm working on
-
-- **Truxt** — correlating GitHub, Jira & Jenkins signals via pgvector + Neo4j to surface DORA/SPACE-style engineering intelligence. Built a custom MCP & CLI harness (40% better tool-call success at 80% fewer tokens).
-- **sktime** — Polars DataFrame support across estimators, MOIRAI foundation model port, PEFT/LoRA adapters for time-series fine-tuning (Lag-Llama).
-- **Harnex** — open-source full-stack app deployed on Azure. [Live](https://harnex-app.eastus2.cloudapp.azure.com/home) · [Repo](https://github.com/pranavvp16/harnex)
-
 ### Talks & community
 
 Speaker at Keras Community Day, Google I/O Connect, Daytona, MLOps Practices, OSS Maintainers Meetup (Google). Organiser of ML Nashik community.
