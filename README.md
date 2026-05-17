@@ -1,23 +1,29 @@
-<h1 align="center">Hello 👋, I am Pranav</h1>
-<h3 align="center">Python developer and  Machine learning engineer</h3>
-<p> Hello I'm Pranav Prajapati, Organizer Machine Learning Nashik community,and contributor at various Machine Learning, Deep Learning and Generative AI libraries/Projects like Keras, Mindsdb, Pytorch, Sktime and many more. I'm a Machine Learning engineer and Python developer. I'm always open to contribute to Open Source projects in meaningful ways and come up with innovative ideas.</p>
+# Pranav Prajapati
 
-<h3>Currently learning about<h3>
-  
-             - 🌱 MLops practices and frameworks
+**GenAI & ML Engineer · Full-stack developer · Open source**
 
-             - 👨‍💻 Buidling Deep Learing solutions for edge devices
+Currently shipping agent infrastructure at [Truxt](https://github.com/pranavvp16) and a core developer at [sktime](https://github.com/sktime/sktime) through Google Summer of Code 2024. Two-time Smart India Hackathon national winner. Google for Developers AI/ML Community Award 2024.
 
-             - 💬 Ask me about Fine Tuning your Machine Learning model
+---
 
-             - 🦀 Learning rust and rust powered DataFrames(Polars)
+### What I'm working on
 
+- **Truxt** — correlating GitHub, Jira & Jenkins signals via pgvector + Neo4j to surface DORA/SPACE-style engineering intelligence. Built a custom MCP & CLI harness (40% better tool-call success at 80% fewer tokens).
+- **sktime** — Polars DataFrame support across estimators, MOIRAI foundation model port, PEFT/LoRA adapters for time-series fine-tuning (Lag-Llama).
+- **Harnex** — open-source full-stack app deployed on Azure. [Live](https://harnex-app.eastus2.cloudapp.azure.com/home) · [Repo](https://github.com/pranavvp16/harnex)
 
+### Open source
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/pranavvstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavvstwt" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/pranavprajapati16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pranavprajapati16" height="30" width="40" /></a> 
-</p>
+| Repo | Role |
+|------|------|
+| [sktime/sktime](https://github.com/sktime/sktime) ★8.7k | Core dev · GSoC 2024 |
+| [pranavvp16/sktime-mlflow](https://github.com/pranavvp16/sktime-mlflow) | Maintainer |
+| [huggingface/transformers](https://github.com/huggingface/transformers) ★142k | Contributor |
 
+### Talks & community
 
+Speaker at Keras Community Day, Google I/O Connect, Daytona, MLOps Practices, OSS Maintainers Meetup (Google). Organiser of ML Nashik community.
+
+---
+
+[Portfolio](https://pranav-prajapati.vercel.app) · [LinkedIn](https://linkedin.com/in/pranavprajapati) · pranavprajapati586@gmail.com
