@@ -12,14 +12,6 @@ Currently shipping agent infrastructure at [Truxt](https://github.com/pranavvp16
 - **sktime** — Polars DataFrame support across estimators, MOIRAI foundation model port, PEFT/LoRA adapters for time-series fine-tuning (Lag-Llama).
 - **Harnex** — open-source full-stack app deployed on Azure. [Live](https://harnex-app.eastus2.cloudapp.azure.com/home) · [Repo](https://github.com/pranavvp16/harnex)
 
-### Open source
-
-| Repo | Role |
-|------|------|
-| [sktime/sktime](https://github.com/sktime/sktime) ★8.7k | Core dev · GSoC 2024 |
-| [pranavvp16/sktime-mlflow](https://github.com/pranavvp16/sktime-mlflow) | Maintainer |
-| [huggingface/transformers](https://github.com/huggingface/transformers) ★142k | Contributor |
-
 ### Talks & community
 
 Speaker at Keras Community Day, Google I/O Connect, Daytona, MLOps Practices, OSS Maintainers Meetup (Google). Organiser of ML Nashik community.
